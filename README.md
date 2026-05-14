@@ -228,3 +228,7 @@ terraform destroy
 - [Nginx Documentation](https://nginx.org/en/docs/)
 - [Node.js Documentation](https://nodejs.org/docs/)
 - [Nirvana Labs Documentation](https://docs.nirvanalabs.io)
+
+## License
+
+Apache 2.0 — see [LICENSE](LICENSE.md).
